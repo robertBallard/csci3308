@@ -1,2 +1,2 @@
-# csci3308
-# csci3308
+# Robert Ballard
+# CSCI 3308, Lab 3
