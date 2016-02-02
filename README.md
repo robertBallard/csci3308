@@ -1,2 +1,2 @@
 # Robert Ballard
-# CSCI 3308, Lab 3
+# HUMN 1000, Essay 1
